@@ -7,4 +7,9 @@ An education company named X Education sells online courses to industry professi
 
 Details of files 
 
-
+> Assignment Subjective Questions.pdf:Some subjective questions answered
+> LEAD SCORE PPT-PDF.pdf:Final Presentation
+> Leads Data Dictionary.xlsx:Data Dictionary
+> Leads.csv:Data worked on
+> Summary.pdf:Summary on what's done in the entire python file
+> lead Scoring Case Study Upgrad.ipynb:The python file showing coding and data analysis
